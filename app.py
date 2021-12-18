@@ -86,10 +86,10 @@ def classify(img_path):
     for i in range(0,10):
         
         sift = cv.SIFT_create()
-        # find the keypoints and descriptors with SIFT
+       
         kp1, des1 = sift.detectAndCompute(logo_images[i],None)
         kp2, des2 = sift.detectAndCompute(img2,None)
-        # BFMatcher with default params
+       
         bf = cv.BFMatcher()
         matches = bf.knnMatch(des1,des2,k=2)
         good = []
