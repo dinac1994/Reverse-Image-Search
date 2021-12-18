@@ -92,6 +92,9 @@ Again, many matching pairs. How about a cluttered picture taken with phone?
 
 It works!
 
+## UI of a simple web app
+
+<img width="1427" alt="Slika_10" src="https://user-images.githubusercontent.com/92053362/146652692-66cf1fe0-5bbc-474a-9b3f-b077852feed5.png">
 
 
 
