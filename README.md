@@ -68,7 +68,7 @@ eBay website is properly classified because there are many matching pairs betwee
 
 ![Slika_5](https://user-images.githubusercontent.com/92053362/146652299-2b3b0600-e874-4f09-b7cf-00a6bf2205e7.png)
 
-Ebay logo has only 2 matching pairs, which is not enough to classify the BBC website as the eBay website.
+Ebay logo has only 2 matching pairs with the BBC website, which is not enough to classify the BBC website as the eBay website.
 
 ## Njuskalo logo
 
@@ -80,7 +80,7 @@ Njuskalo website is properly classified because there are many matching pairs be
 
 ![Slika_7](https://user-images.githubusercontent.com/92053362/146652376-13243c39-47d4-4f5b-9c10-b285b6bbcc31.png)
 
-There are no matching pairs between njuskalo and amazon.
+There are no matching pairs between njuskalo logo and amazon. website
 
 ## Amazon logo
 
